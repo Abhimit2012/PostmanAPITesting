@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "john",
+      "loacation": "india",
+      "phone": "4561234569",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "smita",
+      "loacation": "kenya",
+      "phone": "4561212334",
+      "courses": [
+        "java",
+        "HTML"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sanna",
+      "loacation": "USA",
+      "phone": "0532254532",
+      "courses": [
+        "C language ",
+        "computer course"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "MARK",
+      "loacation": "USA",
+      "phone": "05442266495",
+      "courses": [
+        "java",
+        "Python"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "SANJAY ",
+      "loacation": "India",
+      "phone": "45258789522",
+      "course": [
+        "java",
+        "html"
+      ]
+    }
+  ]
+}
